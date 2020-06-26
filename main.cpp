@@ -1,3 +1,7 @@
+//乐学偶得版权所有，主讲人：William 公众号：乐学Fintech 网站：lexueoude.com
+// Created by william from lexueoude.com
+//
+
 #include <iostream>
 
 using namespace std;
